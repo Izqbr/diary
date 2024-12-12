@@ -11,8 +11,8 @@ json_data = {}
 
 
 data = {
-    'login': '191-641-188 74',
-    'password': '1245cv89#0',
+    'login': ' ',
+    'password': ' ',
     'submit': 'submit',
     'returnTo': 'https://one.astrobl.ru'
 }
